@@ -24,12 +24,12 @@ Final Metrics:
 
 | Metric    | Score               |
 |-----------|---------------------|
-| Accuracy  | 0.60625             |
-| F1 Score  | 0.6056919251839595  |
-| Eval Loss | 2.275580406188965   |
+| Accuracy  | 0.6094              |
+| F1 Score  | 0.6039              |
+| Eval Loss | 2.2228              |
 
 
-Kaggle notebook link: https://www.kaggle.com/code/invincibleak/mlops-assignment-2-distilbert-finetuning
+Kaggle notebook link: https://www.kaggle.com/code/invincibleak/mlops-best
 Hugging Face link: https://huggingface.co/Archie14/distilbert-goodreads-genres
 W&B Dashboard : https://wandb.ai/g25ait2020-iit-jodhpur/mlops-assignment2
 
